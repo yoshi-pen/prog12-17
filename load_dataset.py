@@ -31,3 +31,13 @@ print(image.min(), image.max())
 #        plt.imshow(image,cmap="gray_r")
 #        plt.title(target)
 # plt.show()
+
+
+
+
+
+
+
+
+
+
