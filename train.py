@@ -100,4 +100,4 @@ plt.legend()
 plt.grid()
 plt.show()
 
-
+#電車ガタゴト
