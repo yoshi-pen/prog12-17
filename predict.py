@@ -36,7 +36,6 @@ plt.bar(range(len(probs[0])),probs[0])
 plt.ylim(0, 1)
 plt.show()
 
-
 #演習
 plt.figure(figsize=(8,4))
 
