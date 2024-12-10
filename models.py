@@ -63,3 +63,5 @@ def test(model,dataloader,loss_fn):
 
 #ロスの平均
     return loss_total / len(dataloader)
+
+#コミット用コメント
