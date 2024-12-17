@@ -1,4 +1,4 @@
-#コメント
+#コメント追加
 import time
 import matplotlib.pyplot as plt
 import torch
