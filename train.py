@@ -103,4 +103,11 @@ plt.legend()
 plt.grid()
 plt.show()
 
+plt.plot(loss_train_history,label="train")
+plt.plot(loss_test_history,label="test")
+plt.xlabel("epochs")
+plt.ylabel("accuracy")
+plt.legend()
+plt.grid()
+plt.show()
 #電車ガタゴト
